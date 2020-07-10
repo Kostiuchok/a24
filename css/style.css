@@ -3836,6 +3836,11 @@ ul.project-detail-block, .project-detail-block ul {
             width: 100%;
         }
 
+            .post-media p {
+                text-align: right;
+                padding-top: 15px;
+            }
+
     .blog-post .post-meta, .comment-list .post-meta, .sidebar-widget .post-meta {
         text-transform: uppercase;
         color: #999;
